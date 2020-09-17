@@ -1,9 +1,9 @@
 József Attila - Tiszta Szívvel
 
-Nincsen apám[VESSZO] se anyám[VESSZO]
-se istenem[VESSZO] se hazám[VESSZO]
-se bölcsőm[VESSZO] se szemfedőm[VESSZO]
-se csókom[VESSZO] se szeretőm[PONT]
+Nincsen apám, se anyám,
+se istenem, se hazám,
+se bölcsőm, se szemfedőm,
+se csókom, se szeretőm[PONT]
 
 Harmadnapja nem eszek,
 se sokat, se keveset.
